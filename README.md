@@ -1,5 +1,5 @@
 - 👋 Hi there,
-  I'm Yash Kaushik, a passionate web devloper based in Ghaziabad. Welcome to my GitHub profile!
+  I'm Yash Kaushik, a passionate web developer based in Ghaziabad. Welcome to my GitHub profile!
 - # About Me
 I love to lift weights and listening to music, and my journey in the world of web development has been both challenging and exciting. I'm always eager to learn new things and explore innovative solutions to problems.
 - 👀 I’m interested to explore right now...
