@@ -6,7 +6,7 @@ I love to lift weights and listening to music, and my journey in the world of we
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on projects
 - 📫 Let's connect!
-  **LinkedIn:** [https://www.linkedin.com/in/yash-kaushik-45b200258]
+  **LinkedIn:** [https://www.linkedin.com/in/yash005kaushik]
 
 <!---
 YK-03/YK-03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
