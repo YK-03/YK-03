@@ -1,6 +1,15 @@
 # 💫 About Me:
-🔭 I'm currently working on POPFLIX, a full-stack movie streaming platform. I'm building it from the ground up to feature an intuitive user interface for browsing a vast library of films and TV shows. On the back end, I'm designing a robust API to handle user authentication, content management, and personalized recommendations.<br>🧑‍🤝‍🧑 I'm looking to collaborate on an open-source project that utilizes AI to solve a real-world problem, such as an application that helps developers visualize and optimize their full-stack architecture, or an ML-powered tool for content creators.<br>🤝 I'm looking for help with mastering the deployment of performant web applications that integrate AI models. I'm keen to learn more about optimizing serverless functions for model inference<br>🌱  I'm currently learning more about edge computing and how to integrate small, efficient machine learning models directly into web applications for faster, more private user experiences.<br>💬  Ask me about building scalable full-stack applications with the MERN stack, crafting efficient RESTful APIs and microservices, or optimizing web performance for a seamless user experience.<br>⚡ Fun fact: My brain finally connects the dots when I'm disconnected from the code.
+🔭 I'm currently working on **NerdVana**, a nerd-focused AI search and exploration platform built with a comic/system-style interface. The goal is to create a fast, Perplexity-like experience where users can explore movies, games, and pop-culture lore through structured AI insights like Canon, Theories, and Spoilers, combined with continuity memory and intelligent follow-up conversations.
 
+🧑‍🤝‍🧑 I'm looking to collaborate on open-source AI projects that enhance knowledge discovery, storytelling analysis, or developer productivity — especially tools that make complex information more interactive and visually structured.
+
+🤝 I'm looking for help mastering the deployment of high-performance AI web apps — particularly streaming responses, split-pipeline rendering, and optimizing serverless or edge functions for fast AI inference.
+
+🌱 I'm currently learning more about edge computing and integrating lightweight AI models directly into modern web apps to improve speed, privacy, and real-time interaction.
+
+💬 Ask me about building AI-driven full-stack apps with React, TypeScript, Firebase, and modern AI pipelines — or about designing nerdy, system-style interfaces that balance performance with creativity.
+
+⚡ Fun fact: My best ideas usually show up when I step away from the screen and let the lore process itself.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yash005kaushik) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/awkdev005) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yash005kaushik@gmail.com) 
