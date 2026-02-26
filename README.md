@@ -1,6 +1,4 @@
 # 💫 About Me:
-🔭 I'm currently working on **NerdVana**, a nerd-focused AI search and exploration platform built with a comic/system-style interface. The goal is to create a fast, Perplexity-like experience where users can explore movies, games, and pop-culture lore through structured AI insights like Canon, Theories, and Spoilers, combined with continuity memory and intelligent follow-up conversations.
-
 🧑‍🤝‍🧑 I'm looking to collaborate on open-source AI projects that enhance knowledge discovery, storytelling analysis, or developer productivity — especially tools that make complex information more interactive and visually structured.
 
 🤝 I'm looking for help mastering the deployment of high-performance AI web apps — particularly streaming responses, split-pipeline rendering, and optimizing serverless or edge functions for fast AI inference.
