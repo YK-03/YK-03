@@ -5,7 +5,7 @@
 
 🌱 I'm currently learning more about edge computing and integrating lightweight AI models directly into modern web apps to improve speed, privacy, and real-time interaction.
 
-💬 Ask me about building AI-driven full-stack apps with React, TypeScript, Firebase, and modern AI pipelines — or about designing nerdy, system-style interfaces that balance performance with creativity.
+💬Ask me about building AI-driven full-stack apps with React, TypeScript, Firebase, and modern AI pipelines — or about designing immersive, system-inspired interfaces that balance performance with creativity.
 
 ⚡ Fun fact: My best ideas usually show up when I step away from the screen and let the lore process itself.
 
