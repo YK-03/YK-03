@@ -1,13 +1,13 @@
 # 💫 About Me:
-🧑‍🤝‍🧑 I'm looking to collaborate on open-source AI projects that enhance knowledge discovery, storytelling analysis, or developer productivity — especially tools that make complex information more interactive and visually structured.
+🧑‍🤝‍🧑 I’m interested in collaborating on open-source projects that involve building practical systems — whether it’s web platforms, developer tools, backend services, or infrastructure that improves how software is built and used.
 
-🤝 I'm looking for help mastering the deployment of high-performance AI web apps — particularly streaming responses, split-pipeline rendering, and optimizing serverless or edge functions for fast AI inference.
+🤝 I enjoy working on problems across the stack, from frontend interfaces to backend services and deployment pipelines. I'm particularly interested in building reliable systems, experimenting with different architectures, and improving performance and developer workflows.
 
-🌱 I'm currently learning more about edge computing and integrating lightweight AI models directly into modern web apps to improve speed, privacy, and real-time interaction.
+🌱 I’m currently exploring areas like distributed systems, backend architecture, deployment strategies, and performance optimization across modern web stacks.
 
-💬Ask me about building AI-driven full-stack apps with React, TypeScript, Firebase, and modern AI pipelines — or about designing immersive, system-inspired interfaces that balance performance with creativity.
+💬 Ask me about building full-stack applications, designing clean system architectures, integrating APIs and services, or taking an idea from concept to a working product.
 
-⚡ Fun fact: My best ideas usually show up when I step away from the screen and let the lore process itself.
+⚡ Fun fact: My best ideas usually show up when I step away from the screen and let things simmer for a bit.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yash005kaushik) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/awkdev005) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yash005kaushik@gmail.com) 
