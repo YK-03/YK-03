@@ -55,7 +55,6 @@
 
 ![](https://streak-stats.demolab.com?user=YK-03&theme=radical&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YK-03&layout=compact&theme=radical&hide_border=true)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
