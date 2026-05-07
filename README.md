@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🧑‍🤝‍🧑 I’m interested in collaborating on open-source projects that involve building practical systems — whether it’s web platforms, developer tools, backend services, or infrastructure that improves how software is built and used.
 
 🤝 I enjoy working on problems across the stack, from frontend interfaces to backend services and deployment pipelines. I'm particularly interested in building reliable systems, experimenting with different architectures, and improving performance and developer workflows.
