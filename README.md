@@ -56,14 +56,19 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=YK-03&show_icons=true&theme=radical&hide_border=true)
 
-![](https://streak-stats.demolab.com?user=YK-03&theme=radical&hide_border=true)
+<div align="center">
+
+<img width="75%" src="https://streak-stats.demolab.com?user=YK-03&theme=radical&hide_border=true" />
+
+</div>
+
+<br>
 
 
 ---
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 [![](https://visitcount.itsvg.in/api?id=YK-03&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
