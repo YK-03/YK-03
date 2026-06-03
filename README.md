@@ -50,12 +50,9 @@
 
 <div align="center">
 
-<img width="75%" src="https://streak-stats.demolab.com?user=YK-03&theme=radical&hide_border=true" />
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YK-03&theme=github_dark" />
 
 </div>
-
-<br>
-
 
 ---
 
