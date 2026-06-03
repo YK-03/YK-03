@@ -8,14 +8,15 @@
 💬 Ask me about building full-stack applications, designing clean system architectures, integrating APIs and services, or taking an idea from concept to a working product.
 
 ⚡ Fun fact: My best ideas usually show up when I step away from the screen and let things simmer for a bit.
+<br>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yash005kaushik) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kaushiktwtss) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yash005kaushik@gmail.com) 
 <br><br>
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="500">
-<br><br>
-
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500">
+<br>
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -45,6 +46,8 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+<br>
+
 # 📊 GitHub Stats:
 
 
@@ -55,6 +58,7 @@
 </div>
 
 ---
+<br>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
