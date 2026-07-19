@@ -51,11 +51,9 @@
 # 📊 GitHub Stats:
 
 
-<div align="center">
-
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YK-03&theme=github_dark" />
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YK-03&theme=github-dark&hide_border=true"/>
+</p>
 
 ---
 <br>
