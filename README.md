@@ -1,13 +1,13 @@
 # About Me:
-🧑‍🤝‍🧑 I’m interested in collaborating on open-source projects that involve building practical systems — whether it’s web platforms, developer tools, backend services, or infrastructure that improves how software is built and used.
+I’m interested in collaborating on open-source projects that involve building practical systems — whether it’s web platforms, developer tools, backend services, or infrastructure that improves how software is built and used.
 
-🤝 I enjoy working on problems across the stack, from frontend interfaces to backend services and deployment pipelines. I'm particularly interested in building reliable systems, experimenting with different architectures, and improving performance and developer workflows.
+I enjoy working on problems across the stack, from frontend interfaces to backend services and deployment pipelines. I'm particularly interested in building reliable systems, experimenting with different architectures, and improving performance and developer workflows.
 
-🌱 I’m currently exploring areas like distributed systems, backend architecture, deployment strategies, and performance optimization across modern web stacks.
+I’m currently exploring areas like distributed systems, backend architecture, deployment strategies, and performance optimization across modern web stacks.
 
-💬 Ask me about building full-stack applications, designing clean system architectures, integrating APIs and services, or taking an idea from concept to a working product.
+Ask me about building full-stack applications, designing clean system architectures, integrating APIs and services, or taking an idea from concept to a working product.
 
-⚡ Fun fact: My best ideas usually show up when I step away from the screen and let things simmer for a bit.
+Fun fact: My best ideas usually show up when I step away from the screen and let things simmer for a bit.
 <br>
 
 
@@ -47,11 +47,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 <br>
-
-# 📊 GitHub Stats:
-
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YK-03&theme=github_dark"/>
 
 ---
 <br>
